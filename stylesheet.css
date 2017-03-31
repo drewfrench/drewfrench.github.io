@@ -6,7 +6,7 @@ html {
 
 p#heading {
 	text-align: left;
-	font-size: 1.5em;
+	font-size: 1em;
 	line-height: 2em;
 }
 
@@ -16,6 +16,7 @@ div.img {
 	margin-bottom: 15em;
 	max-width: 60em;
 	background-color: #ccc;
+	padding: 1.5em;
 }
 
 img {
@@ -25,7 +26,6 @@ img {
 
 p.caption {
 	border-color: #444;
-	border-radius: 2em;
 	max-width: 50em;
 	text-align: center;
 	margin: 0em 0em 1em 0em;
@@ -35,10 +35,12 @@ h1#title {
 	text-align: center;
 	color: #003;
 	font-family: sans-serif;
+	font-weight: 100;
 }
 
 h2#thesis {
 	text-align: center;
-	color: #007;
+	color: #004;
 	font-family: sans-serif;
+	font-weight: 100;
 }
