@@ -12,8 +12,7 @@ p#heading {
 
 div.img {
 	text-align: center;
-	margin-top: 1em;
-	margin-bottom: 15em;
+	margin: 1em auto 15em auto;
 	max-width: 60em;
 	background-color: #ccc;
 	padding: 1.5em;
@@ -28,7 +27,7 @@ p.caption {
 	border-color: #444;
 	max-width: 50em;
 	text-align: center;
-	margin: 0em 0em 1em 0em;
+	margin: 0em auto 1em auto;
 }
 
 h1#title {
