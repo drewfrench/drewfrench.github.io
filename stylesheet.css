@@ -13,7 +13,7 @@ p#heading {
 div.img {
 	text-align: center;
 	margin: 1em auto 15em auto;
-	max-width: 60em;
+	max-width: 50em;
 	background-color: #ccc;
 	padding: 1.5em;
 }
@@ -24,10 +24,16 @@ img {
 }
 
 p.caption {
-	border-color: #444;
 	max-width: 50em;
 	text-align: center;
 	margin: 0em auto 1em auto;
+}
+
+p.caption1 {
+	max-width: 50em;
+	text-align: center;
+	margin: 0em auto 1em auto;
+	font-size: 1.2em;
 }
 
 h1#title {
