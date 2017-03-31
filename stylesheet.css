@@ -6,16 +6,17 @@ html {
 
 div.img {
 	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-bottom: 15em;
 }
 
 img {
 	margin: 0em, 0em, 0em, 0em;
+	width: 30em;
 }
 
 p.caption {
 	border-color: #444;
 	border-radius: 2em;
-	max-width: 30em;
+	max-width: 50em;
 	margin: 0em, 0em, 0em, 0em;
 }
