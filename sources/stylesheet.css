@@ -1,0 +1,12 @@
+html {
+	background-color: #AAA;
+	font-family: Times, serif;
+	font-size: 1.2em;
+}
+
+h2.heading {
+	text-align: center;
+	color: #004;
+	font-family: sans-serif;
+	font-weight: 100;
+}
