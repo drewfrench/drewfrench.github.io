@@ -7,7 +7,7 @@ html {
 div.img {
 	text-align: center;
 	margin: 1em auto 15em auto;
-	max-width: 5/0em;
+	max-width: 50em;
 	background-color: #ccc;
 	padding: 1.5em;
 }
