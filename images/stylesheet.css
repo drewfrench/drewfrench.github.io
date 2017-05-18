@@ -17,6 +17,10 @@ img {
 	width: 30em;
 }
 
+img.border {
+	border: 10px solid #fff;
+}
+
 p.caption {
 	max-width: 50em;
 	text-align: center;
