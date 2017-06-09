@@ -12,6 +12,13 @@ div.img {
 	padding: 1.5em;
 }
 
+div.imgvid {
+	margin: 1em auto 15em auto;
+	max-width: 50em;
+	background-color: #ccc;
+	padding: 1.5em;
+}
+
 img {
 	margin: 0em 0em 0em 0em;
 	width: 30em;
