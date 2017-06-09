@@ -19,6 +19,18 @@ div.imgvid {
 	padding: 1.5em;
 }
 
+.imgvid > div {
+	background-color: #fff;
+	border-radius: 0.5em;
+	display: inline-block;
+	font-size: 1.5em;
+	margin-left: 2em;
+	margin-top: 6.5em;
+	padding: 0.5em;
+	cursor: pointer;
+	position: absolute;
+}
+
 img {
 	margin: 0em 0em 0em 0em;
 	width: 30em;
